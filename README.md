@@ -5,6 +5,17 @@
 This is a simple To-Do List application built with React. Users can add, edit, delete, and mark tasks as completed. The application is styled with CSS to create a user-friendly interface.
 
 
+## Table of Contents
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Installation](#installation)
+- [Usage](#usage)
+- [File Structure](#file-structure)
+- [Technologies Used](#technologies-used)
+- [Future Improvements](#future-improvements)
+- [License](#license)
+- [Contact](#contact)
+
 ## Features
 - **Add a Task**: Users can add a new task by typing in the input field and either pressing the **Enter** key or clicking the **Add** button.
 - **Edit a Task**: Users can edit an existing task by clicking the **Edit** button next to it.
